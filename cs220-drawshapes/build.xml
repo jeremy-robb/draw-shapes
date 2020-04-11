@@ -1,0 +1,9 @@
+<project name="drawshapes" default="build">
+    <target name="mkdest">
+        <mkdir dir="build"/>
+    </target>
+    
+    <target name="build" depends="mkdest">
+        
+    </target>
+</project>
